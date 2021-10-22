@@ -4,15 +4,9 @@
 
 ### Folders
 
-#### Models
+### Trained Models
 
-This folder contains the trained models used in the paper.  
-To load them you need to unzip and then use the Keras command [load_model](https://www.tensorflow.org/api_docs/python/tf/keras/models/load_model).
-
-**Animated**: model trained in custom *Animated* scenario.  
-**Basic**: model trained in standard *Basic* scenario.  
-**Caco**: model trained in custom *Caco* scenario.  
-**Flat**: model trained in custom *Flat* scenario.
+You can find the four trained agents in [this folder](https://drive.google.com/drive/folders/1UdxsbmW30HjFtkd2eVxC34UWBHghH5Xd?usp=sharing).
 
 ### Cite this paper
 
