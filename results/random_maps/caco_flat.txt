@@ -1,0 +1,6 @@
+Map,scenarios/monster_caco.cfg
+Resolution,(48, 64)
+Frame Repeat,8
+Number of Games,200
+Elapsed time,Score min,Score max,Score mean,Score std
+1382.15,-318.0,6.0,-169.395,130.01

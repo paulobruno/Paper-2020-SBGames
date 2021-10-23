@@ -1,0 +1,6 @@
+Map,scenarios/animated.cfg
+Resolution,(48, 64)
+Frame Repeat,8
+Number of Games,200
+Elapsed time,Score min,Score max,Score mean,Score std
+1137.55,-370.0,94.0,-182.045,219.08

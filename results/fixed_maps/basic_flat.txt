@@ -1,0 +1,6 @@
+Map,scenarios/basic.cfg
+Resolution,(48, 64)
+Frame Repeat,8
+Number of Games,200
+Elapsed time,Score min,Score max,Score mean,Score std
+1201.27,-315.0,78.0,-148.905,173.13
