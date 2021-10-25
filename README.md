@@ -1,4 +1,4 @@
-## Paper Title
+## Investigating Deep Q-Network Agent Sensibility to Texture Changes on FPS Games
 
 **Conference**: [Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)](https://www.sbgames.org/sbgames2020/)
 
