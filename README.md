@@ -1,5 +1,6 @@
 ## Investigating Deep Q-Network Agent Sensibility to Texture Changes on FPS Games
 
+[Page](https://paulobruno.github.io/publication/SBGames-investigating-deep/)   [PDF](https://www.sbgames.org/proceedings2020/ComputacaoFull/209515.pdf)  
 **Conference**: [Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)](https://www.sbgames.org/sbgames2020/)
 
 ### Folders
