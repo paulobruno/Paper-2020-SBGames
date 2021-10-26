@@ -8,16 +8,16 @@
 
 ### Folders
 
-#### Logs
-
-Full training logs of the agents in all experiments.
-
 #### Scenarios
 
 **Animated**: custom scenario with animated walls, ceiling, and floor.  
 **Basic**: standard *Basic* scenario from [VizDoom](http://vizdoom.cs.put.edu.pl/).  
 **Caco**: custom scenario with the original Cacodemon monster skin.  
 **Flat**: custom scenario with only flat textures.
+
+#### Logs
+
+Full training logs of the agents in all experiments.
 
 ### Trained Models
 
