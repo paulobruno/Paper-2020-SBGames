@@ -10,6 +10,8 @@
 
 #### Results
 
+![Results](results/results.jpg)
+
 **Fixed Maps**: The monster has predefined spawn points shared across all scenarios.  
 **Basic**: At every new episode the monster spawns in a random place.
 
