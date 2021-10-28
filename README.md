@@ -8,6 +8,12 @@
 
 ### Folders
 
+#### Results
+
+**Fixed Maps**: The monster has predefined spawn points shared across all scenarios.  
+**Basic**: At every new episode the monster spawns in a random place.
+
+
 #### Scenarios
 
 **Animated**: custom scenario with animated walls, ceiling, and floor.  
@@ -15,7 +21,7 @@
 **Caco**: custom scenario with the original Cacodemon monster skin.  
 **Flat**: custom scenario with only flat textures.
 
-#### Logs
+#### Training Logs
 
 Full training logs of the agents in all experiments.
 
